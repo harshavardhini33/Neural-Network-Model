@@ -42,7 +42,7 @@ Plot a graph for Training Loss, Validation Loss Vs Iteration & for Accuracy, Val
 Display the graph.
 ## PROGRAM
 
-
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -181,7 +181,7 @@ conf(y_truevalue,x_pred)
 print(report(y_truevalue,x_pred))
 
 
-
+```
 ## OUTPUT
 ### DATA information:
 ![image](https://github.com/gpavithra673/Neural-Network-Model-Building-DeepLearning/assets/93427264/3057757f-37d2-4feb-8be7-2b267fc9f239)
